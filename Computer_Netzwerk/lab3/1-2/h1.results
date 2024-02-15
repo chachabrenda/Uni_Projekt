@@ -1,0 +1,22 @@
+------------------------------------------------------------
+Server listening on TCP port 5566
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  6] local 10.0.0.1 port 5566 connected with 10.0.0.2 port 36024
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0- 1.0 sec  3250 MBytes  3250 MBytes/sec
+[  6]  1.0- 2.0 sec  3285 MBytes  3285 MBytes/sec
+[  6]  2.0- 3.0 sec  3275 MBytes  3275 MBytes/sec
+[  6]  3.0- 4.0 sec  3344 MBytes  3344 MBytes/sec
+[  6]  4.0- 5.0 sec  3168 MBytes  3168 MBytes/sec
+[  6]  5.0- 6.0 sec  2926 MBytes  2926 MBytes/sec
+[  6]  6.0- 7.0 sec  3025 MBytes  3025 MBytes/sec
+[  6]  7.0- 8.0 sec  3079 MBytes  3079 MBytes/sec
+[  6]  8.0- 9.0 sec  2746 MBytes  2746 MBytes/sec
+[  6]  9.0-10.0 sec  3080 MBytes  3080 MBytes/sec
+[  6] 10.0-11.0 sec  2904 MBytes  2904 MBytes/sec
+[  6] 11.0-12.0 sec  3387 MBytes  3387 MBytes/sec
+[  6] 12.0-13.0 sec  3292 MBytes  3292 MBytes/sec
+[  6] 13.0-14.0 sec  2913 MBytes  2913 MBytes/sec
+[  6] 14.0-15.0 sec  3156 MBytes  3156 MBytes/sec
+[  6]  0.0-15.0 sec  46859 MBytes  3120 MBytes/sec
